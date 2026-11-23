@@ -1,10 +1,42 @@
 <Solution>
-  <Folder Name="/Task0/" />
-  <Folder Name="/Task1/" />
-  <Folder Name="/Task2/" />
-  <Folder Name="/Task3/" />
-  <Folder Name="/Task4/" />
-  <Folder Name="/Task5/" />
-  <Folder Name="/Task6/" />
-  <Folder Name="/Task7/" />
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.MoskalevSO.Sprint6.Task0.V6.Lib/Tyuiu.MoskalevSO.Sprint6.Task0.V6.Lib.csproj" Id="ed0f9c77-0547-43f9-9661-42e062611a4a" />
+    <Project Path="Tyuiu.MoskalevSO.Sprint6.Task0.V6.Test/Tyuiu.MoskalevSO.Sprint6.Task0.V6.Test.csproj" Id="34516bf8-8098-4633-9c61-92f26c44319d" />
+    <Project Path="Tyuiu.MoskalevSO.Sprint6.Task0.V6/Tyuiu.MoskalevSO.Sprint6.Task0.V6.csproj" Id="2e3d8771-ca57-4791-90f4-36f49fd56649" />
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.MoskalevSO.Sprint6.Task1.V4.Lib/Tyuiu.MoskalevSO.Sprint6.Task1.V4.Lib.csproj" Id="54e7cd2d-5e95-4890-a13a-21f34e089be7" />
+    <Project Path="Tyuiu.MoskalevSO.Sprint6.Task1.V4.Test/Tyuiu.MoskalevSO.Sprint6.Task1.V4.Test.csproj" Id="79974980-3d27-46e1-b80c-568d63b4319c" />
+    <Project Path="Tyuiu.MoskalevSO.Sprint6.Task1.V4/Tyuiu.MoskalevSO.Sprint6.Task1.V4.csproj" Id="90c50397-c6bc-4c51-8fad-a567a90ecde4" />
+  </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.MoskalevSO.Sprint6.Task2.V24.Lib/Tyuiu.MoskalevSO.Sprint6.Task2.V24.Lib.csproj" Id="8206bc12-5178-42a0-ae92-9c898cdc9d3c" />
+    <Project Path="Tyuiu.MoskalevSO.Sprint6.Task2.V24.Test/Tyuiu.MoskalevSO.Sprint6.Task2.V24.Test.csproj" Id="bd98dc51-bb5f-460b-9b34-e632e7a53e9c" />
+    <Project Path="Tyuiu.MoskalevSO.Sprint6.Task2.V24/Tyuiu.MoskalevSO.Sprint6.Task2.V24.csproj" Id="f222cbda-88e4-4894-9890-1d85ce05b237" />
+  </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.MoskalevSO.Sprint6.Task3.V15.Lib/Tyuiu.MoskalevSO.Sprint6.Task3.V15.Lib.csproj" Id="d01712a5-62b4-429d-ba30-96874f5ec185" />
+    <Project Path="Tyuiu.MoskalevSO.Sprint6.Task3.V15.Test/Tyuiu.MoskalevSO.Sprint6.Task3.V15.Test.csproj" Id="64ef4c89-a5e5-4ead-b80d-66a458c2ab7d" />
+    <Project Path="Tyuiu.MoskalevSO.Sprint6.Task3.V15/Tyuiu.MoskalevSO.Sprint6.Task3.V15.csproj" Id="d8de7f4a-7c17-4922-aec8-80a73d71cc12" />
+  </Folder>
+  <Folder Name="/Task4/">
+    <Project Path="Tyuiu.MoskalevSO.Sprint6.Task4.V23.Lib/Tyuiu.MoskalevSO.Sprint6.Task4.V23.Lib.csproj" Id="d96e74bb-27bb-494a-8ad4-9cbfe13ebb5a" />
+    <Project Path="Tyuiu.MoskalevSO.Sprint6.Task4.V23.Test/Tyuiu.MoskalevSO.Sprint6.Task4.V23.Test.csproj" Id="0f728421-5fa6-482a-a692-ba3ec4c0bd15" />
+    <Project Path="Tyuiu.MoskalevSO.Sprint6.Task4.V23/Tyuiu.MoskalevSO.Sprint6.Task4.V23.csproj" Id="26d428f3-24c9-4dc8-b399-4dad09f5bb7c" />
+  </Folder>
+  <Folder Name="/Task5/">
+    <Project Path="Tyuiu.MoskalevSO.Sprint6.Task5.V7.Lib/Tyuiu.MoskalevSO.Sprint6.Task5.V7.Lib.csproj" Id="40b1c011-5aba-41d5-8bb1-f31f31535fdb" />
+    <Project Path="Tyuiu.MoskalevSO.Sprint6.Task5.V7.Test/Tyuiu.MoskalevSO.Sprint6.Task5.V7.Test.csproj" Id="8b7242fa-6b81-4a6d-9121-3e66d39dbd3a" />
+    <Project Path="Tyuiu.MoskalevSO.Sprint6.Task5.V7/Tyuiu.MoskalevSO.Sprint6.Task5.V7.csproj" Id="f7faf6b7-891f-4326-8029-e6bf5e73bceb" />
+  </Folder>
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.MoskalevSO.Sprint6.Task6.V22.Lib/Tyuiu.MoskalevSO.Sprint6.Task6.V22.Lib.csproj" Id="2bcc0738-4752-4fcd-8425-27a827cda05e" />
+    <Project Path="Tyuiu.MoskalevSO.Sprint6.Task6.V22.Test/Tyuiu.MoskalevSO.Sprint6.Task6.V22.Test.csproj" Id="e67e145b-04e7-4639-8b19-81397f6cf1c5" />
+    <Project Path="Tyuiu.MoskalevSO.Sprint6.Task6.V22/Tyuiu.MoskalevSO.Sprint6.Task6.V22.csproj" Id="dd77ce87-1e39-4db4-bae1-85d6f14288dd" />
+  </Folder>
+  <Folder Name="/Task7/">
+    <Project Path="Tyuiu.MoskalevSO.Sprint6.Task7.V8.Lib/Tyuiu.MoskalevSO.Sprint6.Task7.V8.Lib.csproj" Id="2e3c54dd-08aa-4837-8d87-5747c1549be3" />
+    <Project Path="Tyuiu.MoskalevSO.Sprint6.Task7.V8.Test/Tyuiu.MoskalevSO.Sprint6.Task7.V8.Test.csproj" Id="ca1a3e7b-7ca4-435b-b877-e3a3a2ba6894" />
+    <Project Path="Tyuiu.MoskalevSO.Sprint6.Task7.V8/Tyuiu.MoskalevSO.Sprint6.Task7.V8.csproj" Id="cf7a8c69-7d4a-4ca8-9cb7-56196523b945" />
+  </Folder>
 </Solution>
